@@ -8,9 +8,9 @@ Accurate land cover classification helps stakeholders understand land usage patt
 ## GOAL OF THE PROJECT
 The project aims to extract the features from images and classify different types of land cover (e.g., urban, agriculture, forest, water) from satellite images.
 
-#### TASK: Multiclass Classification
+### TASK: Multiclass Classification
 
-## DATA SUMMARY
+## DATA SUMMARY:
 * Dataset Name: EuroSAT Land Cover Classification Dataset
 * Data Source: Zenodo EuroSAT Dataset
 * Data Type: Satellite Imagery
@@ -21,7 +21,7 @@ The project aims to extract the features from images and classify different type
 [AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River SeaLake]
 * Total Number of Samples: Approximately 27,000 images (3,000 images per class)
 
-## Steps and Methodology
+## STEPS & METHODOLOGY 
 
 ### 1. Prepare Training, Validation, and Testing Sets
 * Divide the dataset into three subsets:
